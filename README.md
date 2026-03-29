@@ -25,18 +25,23 @@ mse.txt → Mean Squared Error value
 
 ## How to Run
 Step 1: Clone the repository
+```
 git clone https://github.com/FarhaTK101/financialTimeSeriesForecasting.git
 cd Financial-Time-Series-Forecasting
+```
 
 Step 2: Create and activate virtual environment
+```
 python3 -m venv venv
 source venv/bin/activate
+```
 
 Step 3: Install dependencies
+```
 pip install -r requirement.txt
+```
 
-step 4: run the program
-python predict.py
-pip install -r requirement.txt
 Step 4: Run the program
+```
 python src/predict.py
+```
